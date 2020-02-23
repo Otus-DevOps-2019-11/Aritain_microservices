@@ -2,6 +2,21 @@
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
+### gitlab-ci-1 HW description
+
+Learned the basics about the work with gitlab environment:
+
+
+- A basic gitlab server was deployed
+
+- Created a pipeline for application deployment
+
+- Created different environments for different stages of development
+
+- Added some basic checks and conditions for commits
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 ### docker-4 HW description
 
 Created different docker networks for container isolation and implemented them for the existing containers

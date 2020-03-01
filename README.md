@@ -2,6 +2,17 @@
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
+### monitoring-1 HW description
+
+During these homework the basics of prometheus was learned and a few little tweaks to repository was made
+
+A fresh docker-build was created from the scratch, the config of this container is aimed to gather metrics from other containers and from the host machine itself.
+
+Also all the previous docker images (although a comment container needed some fixing since it was using wrong DB host) were re-builded and uploaded to https://hub.docker.com/u/ganhart
+
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 ### gitlab-ci-1 HW description
 
 Learned the basics about the work with gitlab environment:

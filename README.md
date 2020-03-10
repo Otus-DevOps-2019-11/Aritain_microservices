@@ -2,6 +2,20 @@
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
+https://hub.docker.com/u/ganhart - actual docker images
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+### monitoring-2 HW description
+
+The whole docker monitoring infrastructure was moved to a separate docker-compose file "docker-compose-monitoring.yml"
+
+Also a few new instruments were implemented for containers monitoring: grafana, cadvisor, alertmanager.
+
+For the last one an integration with slack channel was implemented.
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
 ### monitoring-1 HW description
 
 During these homework the basics of prometheus was learned and a few little tweaks to repository was made

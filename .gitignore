@@ -1,2 +1,6 @@
 google-cloud-sdk
 .env
+kube-apiserver
+kube-controller-manager
+kube-scheduler
+kubectl

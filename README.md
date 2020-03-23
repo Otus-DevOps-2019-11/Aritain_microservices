@@ -4,6 +4,18 @@
 
 https://hub.docker.com/u/ganhart - actual docker images
 
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+### logging-1 HW description
+
+Implemented a logging infrastructure for the current docker-containers in the project.
+
+For this purprose a new file docker-compose-logging.yml was created with a description of logging infrastructure.
+
+As a logging tools were used the following: ElasticSearch, Logstash, Kibana, Zipkin
+
+
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 ### monitoring-2 HW description

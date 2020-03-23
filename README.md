@@ -5,6 +5,15 @@
 https://hub.docker.com/u/ganhart - actual docker images
 
 
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+### kubernetes-1 HW description
+
+Completed kubernetes "the hard way", files created in the process can be found in a corresponding directory
+
+Also created .yml files for the existing infrastructure, which were tested with a kubectl to create pods on a worker node
+
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 ### logging-1 HW description

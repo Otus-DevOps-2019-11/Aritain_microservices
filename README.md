@@ -4,7 +4,13 @@
 
 https://hub.docker.com/u/ganhart - actual docker images
 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
+### kubernetes-2 HW description
+
+Updated recently created .yml files for the current project and created new files for services and dev namespace.
+
+Moved the whole project to GKE and deployed it.
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 

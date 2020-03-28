@@ -4,4 +4,4 @@ kube-apiserver
 kube-controller-manager
 kube-scheduler
 kubectl
-minicube
+minikube

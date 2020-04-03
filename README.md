@@ -4,17 +4,13 @@
 
 https://hub.docker.com/u/ganhart - actual docker images
 
-
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
-### logging-1 HW description
+### kubernetes-3 HW description
 
-Implemented a logging infrastructure for the current docker-containers in the project.
+Implemented ingress-controllers, network policies and storages to GCP kubernetes cluster.
 
-For this purprose a new file docker-compose-logging.yml was created with a description of logging infrastructure.
-
-As a logging tools were used the following: ElasticSearch, Logstash, Kibana, Zipkin
-
+Added HTTPS support to the project with self-signed certificate.
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 

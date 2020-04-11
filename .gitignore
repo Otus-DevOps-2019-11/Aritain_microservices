@@ -5,3 +5,4 @@ kube-controller-manager
 kube-scheduler
 kubectl
 minikube
+kubernetes/Gitlab_ci

@@ -4,6 +4,12 @@
 
 https://hub.docker.com/u/ganhart - actual docker images
 
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+### kubernetes-4 HW description
+
+
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 ### kubernetes-3 HW description

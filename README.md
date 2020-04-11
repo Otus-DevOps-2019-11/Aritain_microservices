@@ -9,6 +9,9 @@ https://hub.docker.com/u/ganhart - actual docker images
 
 ### kubernetes-4 HW description
 
+Application moved to helm deployment.
+
+Created gitlab in kubernetes cluster.
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 

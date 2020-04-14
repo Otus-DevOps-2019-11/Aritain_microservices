@@ -4,6 +4,11 @@
 
 https://hub.docker.com/u/ganhart - actual docker images
 
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+### kubernetes-5 HW description
+
+Deployed prometheus and grafana monitoring via helm for the current application
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
